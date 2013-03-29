@@ -1,0 +1,18 @@
+{
+  "name": "Bitbucket",
+  "identifier": "com.jonseager.bitbucket",
+  "description": "Tracks group invitations on Bitbucket",
+  "titleImage": "bitbucket.png",
+  "developer": {
+    "name": "Jon Seager",
+    "email": "jonseager@gmail.com",
+    "website": "http://jseager.co.uk"
+  },
+  "icons": {
+    "small": "icons/bitbucket16.png",
+    "large": "icons/bitbucket32.png"
+  },
+  "providers": {
+    "stream": "bitbucket"
+  }
+}
